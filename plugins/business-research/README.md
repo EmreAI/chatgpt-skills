@@ -5,10 +5,9 @@ A ChatGPT skill for source-first business research. It prioritises publicly acce
 ## Install
 
 1. Download **[business-research.zip](https://github.com/EmreAI/chatgpt-skills/raw/main/dist/business-research.zip)**. Keep it zipped.
-2. In ChatGPT, open **Plugins → Skills → Create → Upload from your computer** and choose the ZIP.
+2. In ChatGPT, open **Plugins → Skills → Add skill → Upload from your computer** and choose the ZIP.
 3. Start a new chat and describe your project.
 
-Skill uploads require an eligible account or workspace and may need to be enabled by an administrator. The ZIP has not yet been tested with ChatGPT's upload flow.
 
 ## Workflow
 
