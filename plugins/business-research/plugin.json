@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "business-research",
+  "version": "0.1.0",
+  "description": "Source-first business research with guidance for Nova SBE library resources."
+}
