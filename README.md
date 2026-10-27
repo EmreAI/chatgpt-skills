@@ -2,16 +2,14 @@
 
 Skills to help you work more effectively with AI.
 
-| Skill | What it does |
-|---|---|
-| [Business Research](plugins/business-research/) | Source-first business research, with guidance for Nova SBE library databases. |
+| Skill | What it does | Download |
+|---|---|---|
+| [Business Research](plugins/business-research/) | Source-first business research, with guidance for Nova SBE library databases. | [ZIP](https://github.com/EmreAI/chatgpt-skills/raw/main/dist/business-research.zip) |
 
 ## Install
 
-For local use in supported ChatGPT desktop Work or Codex environments:
+1. Download the **ZIP** above. Keep it zipped.
+2. In ChatGPT, open **Plugins → Skills → Create → Upload from your computer** and select the ZIP.
+3. Start a new chat and describe your project.
 
-1. Clone this repository and open it as a local project.
-2. Restart the ChatGPT desktop app, open **Plugins** and select the **Emre AI Skills** repository marketplace.
-3. Install **Business Research**, start a new chat and describe your project.
-
-Availability depends on your app, account and workspace settings. This repository provides a local plugin; it is not an automatically installed public ChatGPT plugin. See the [OpenAI local plugin guide](https://developers.openai.com/plugins/build/plugins#install-a-local-plugin-manually) if the marketplace does not appear.
+Skill uploads are available only for eligible accounts and workspaces; an administrator may need to enable them. See [OpenAI's guide](https://developers.openai.com/cookbook/examples/chatgpt/chatgpt_prompt_guide/chatgpt_prompt_guide) for details. The ZIP has not yet been tested with ChatGPT's upload flow.
